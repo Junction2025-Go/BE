@@ -3,6 +3,7 @@ package com.example.junction2025.dto;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import org.springframework.beans.factory.annotation.Value;
 
 @Getter
 @AllArgsConstructor
